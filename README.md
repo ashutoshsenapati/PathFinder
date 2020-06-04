@@ -1,6 +1,4 @@
-# Path Finding Visualizer | Dijkstra's Algorithm
-
-Play - https://mayank-genesis.github.io/Path-finding-visualizer/
+# Path Finding Visualizer | Dijkstra's Algorithm - (Public Mode)
 
 ## How to setup the Project on your machine
 
